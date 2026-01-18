@@ -1,0 +1,75 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# macOS system files
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.log
+*.pot
+*.mo
+*.coverage
+.coverage.*
+.cache
+.pytest_cache/
+.tox/
+.nox/
+.env/
+.venv/
+env/
+venv/
+ENV/
+Pipfile.lock
+pip-wheel-metadata/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Pyright type checker
+.pyright/
+
+# Test output
+htmlcov/
+
+# Local env files
+.env
+.env.*
+
+# macOS cleanup
+*.DS_Store
+
+# Others
+*.orig
+*.bak
+*.tmp
+*.old
+*.log
+
+# End of file
